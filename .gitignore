@@ -1,0 +1,4 @@
+# Ignoring the generated site by Jekyll
+# This directory is not necessary to commit, the generation process is
+# doing by Github.
+_site/*
