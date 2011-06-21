@@ -5,7 +5,7 @@
     <meta http-equiv="Content-Style-Type" content="text/css">
     <meta http-equiv="Content-Script-Type" content="text/javascript">
         
-    <title>{{ page.title }}</title>
+    <title>dev.monsterzen.com - {{ page.title }}</title>
 
     <!-- Favicon -->
     {% comment %}
@@ -13,11 +13,12 @@
     {% endcomment %}
 
     <!-- CSS -->
-    <link href='http://fonts.googleapis.com/css?family=OFL+Sorts+Mill+Goudy+TT' rel='stylesheet' type='text/css'>
+    <link  href="http://fonts.googleapis.com/css?family=OFL+Sorts+Mill+Goudy+TT:regular,italic&v1" rel="stylesheet" type="text/css" >
     <link href="http://fonts.googleapis.com/css?family=Pacifico:regular" rel="stylesheet" type="text/css">
 
     <link href="{{ site.url }}/media/css/aal.css" media="screen" rel="stylesheet" type="text/css" />
     <link href="{{ site.url }}/media/css/ui.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="{{ site.url }}/media/css/syntax.css" media="screen" rel="stylesheet" type="text/css" />
     {% comment %}
     <link href="{{ site.url }}/media/css/layout.css" media="screen" rel="stylesheet" type="text/css" />
     {% endcomment %}
@@ -60,17 +61,21 @@
         <!-- Content -->
         <div id="content">
             {% case page.type %}
+            {% when "welcome" %}
+                <div id="welcome_message">{{ content }}</div>
             {% when "post" %}
-                <div id="post_title"><h1>{{ page.title }}</h1></div>
-                <div id="post_info">Publicado el {{ page.date | date_to_long_string }}.</div>
+                <div id="post_title"><h1><a href="{{ page.url }}">{{ page.title }}</a></h1></div>
+                <div id="post_info">{{ page.date | date_to_long_string }}</div>
                 <div id="post_content">{{ content }}</div>
+                <div id="post_footer"><img src="{{ site.url }}/media/images/footer.png" /></div>
             {% else %}
-                <div id="post_content">{{ content }}</div>
+                {{ content }}
             {% endcase %}
         </div>
   
         <!-- Footer -->
         <div id="footer">
+            {% comment %}<a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">Content Licensed over Creative Commons (by-nc-sa)</a>{% endcomment %}
         </div>
     </div>
 

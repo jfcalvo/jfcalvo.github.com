@@ -7,6 +7,8 @@ body h1, body h2, body h3, body h4, body h5, body h6 { font-weight: normal }
 body h1 { font-size: 40px; }
 body h2 { font-size: 30px; }
 
+code { font-size: 19px; margin-left: 0.8em; }
+
 #wrap {
   width: 640px; 
   margin: 0 auto;
@@ -15,7 +17,7 @@ body h2 { font-size: 30px; }
 }
 
 #header {
-  margin-bottom: 2em;
+  margin-bottom: 1.6em;
 }
 
 #logo {
@@ -38,9 +40,16 @@ body h2 { font-size: 30px; }
 #menu a { font-size: 18px; }
 #menu .separator { margin-left: 0.2em; margin-right: 0.2em; }
 
+#welcome_message { font-size: 30px; text-align: center; margin-top: 2.0em; }
+#welcome_message p { font-style: italic; }
+
 #post_title h1 {
+  font-size: 40px; 
   margin-bottom: 0.1em;
 }
+
+#post_title a { color: black; }
+#post_title a:hover { text-decoration: none; color: #3F92D2; }
 
 #post_info {
   color: #808080;
@@ -48,4 +57,16 @@ body h2 { font-size: 30px; }
   margin-bottom: 1.2em;
 }
 
+#post_content img { display: block; margin-top: 1.0em; margin-bottom: 1.0em; margin-left: auto; margin-right: auto; }
+#post_footer { text-align: center; margin-top: 2.0em; margin-bottom: 1.8em; }
+
 .line { display: block; height: 3px; background-color: #3F92D2; }
+#footer { font-size: 14px; margin-top: 2.4em; text-align: center; font-style: italic; color: #3F92D2; }
+#footer a { color: black; }
+
+#post_list ol, #project_list ol { list-style-type: none; }
+#post_list li, #project_list li { margin-left: 0em; margin-bottom: 1.2em; }
+#post_list li a, #project_list li a { font-size: 28px; color: black; }
+#post_list li a:hover, #project_list li a:hover { color: #3F92D2; text-decoration: none; }
+#post_list .post_date { color: #A8A8A8; margin-left: 0.6em; font-size: 15px; }
+#post_list .post_summary, #project_list .project_summary { display: block; font-size: 20px; font-style: italic; margin-top: 0.4em; }

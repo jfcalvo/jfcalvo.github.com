@@ -1,0 +1,18 @@
+---
+layout: default
+permalink: /projects/
+title: Projects
+---
+
+<div id="project_list">
+<ol>
+{% for page in site.pages %}
+    {% if page.type == "project" %}
+        <li>
+            <a href="{{ page.url }}">{{ page.title }}</a>
+            <div class="project_summary">{{ page.summary }}.</div>
+        </li>
+    {% endif %}
+{% endfor %}
+</ol>
+</div>
