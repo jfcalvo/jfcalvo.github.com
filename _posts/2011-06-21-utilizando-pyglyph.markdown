@@ -6,7 +6,7 @@ summary: Cómo utilizar Pyglyph de manera efectiva para crear texturas con fuent
 title: Utilizando Pyglyph
 ---
 
-Pyglyph es un generador de texturas de fuentes desarrollado en Python. El objetivo que tenía en mente era facilitar el renderizado de fuentes en proyectos relacionados con aplicaciones y videojuegos con [OpenGL ES](http://es.wikipedia.org/wiki/OpenGL_ES) bajo dispositivos iOS. 
+Pyglyph es un generador de texturas de fuentes desarrollado en Python. El objetivo que tenía en mente era facilitar el renderizado de fuentes en proyectos relacionados con aplicaciones y videojuegos utilizando [OpenGL ES](http://es.wikipedia.org/wiki/OpenGL_ES) bajo dispositivos iOS. 
 
 Pyglyph es capaz de generar dos archivos, un primer archivo png con todos los caracteres requeridos con un tamaño y color dados, y un segundo archivo con metadatos sobre cada uno de los caracteres presentes en el archivo gráfico. El archivo de metadatos generado es un XML de tipo [plist](http://en.wikipedia.org/wiki/Plist), facilitando su uso en proyectos para dispositivos iOS, aunque utiliza un sistema de plantillas para poder configurar el formato de salida de los metadatos.
 

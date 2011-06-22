@@ -1,7 +1,7 @@
 ---
 layout: default
 type: welcome
-title: dev.monsterzen.com
+title: Welcome!
 ---
 
 # Welcome!

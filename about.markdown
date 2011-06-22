@@ -14,4 +14,4 @@ If you want to know more about me you can visit my profile at [Github](https://g
 
 !Hola!, Mi nombre es José Francisco Calvo, resido y trabajo en Málaga (España), desarrollador apasionado y lector empedernido. Muy interesado en I.A, Computación Evolutiva, diseño de Lenguajes, Metodologías Ágiles y desarrollo sobre iOS. Pythonista adoptando Ruby (lo siento Guido).
 
-Si quieres conocer un poco más sobre mi puedes visitar mi perfil en [Github](https://github.com/jfcalvo), [Flickr](http://www.flickr.com/photos/jfcalvo/), [Last.fm](http://www.last.fm/user/abuelochipo/), [Twitter](http://twitter.com/jfcalvo), visitar los [Proyectos]({{ site.url }}/projects/) en los que estoy trabajando o enviarme un [email](mailto:josefranciscocalvo@gmail.com).
+Si quieres conocer un poco más sobre mí puedes visitar mi perfil en [Github](https://github.com/jfcalvo), [Flickr](http://www.flickr.com/photos/jfcalvo/), [Last.fm](http://www.last.fm/user/abuelochipo/), [Twitter](http://twitter.com/jfcalvo), visitar los [Proyectos]({{ site.url }}/projects/) en los que estoy trabajando o enviarme un [email](mailto:josefranciscocalvo@gmail.com).
