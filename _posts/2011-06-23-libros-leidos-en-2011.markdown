@@ -16,12 +16,12 @@ Puesto que todavía no ha terminado el año la lista sigue en construcción:
 4. *Patas Arriba La escuela del mundo al revés* de Eduardo Galeano.
 5. *Deconstruyendo a Darwin* de Javier Sampedro.
 6. *¡Indignaos!* de Stéphane Hessel.
-7. *El hombre que confundió a su mujer con un sombrero* de Oliver Sacks. 
+7. *El hombre que confundió a su mujer con un sombrero* de Oliver Sacks.
+8. *El lobo estepario* de Hermann Hesse.
 
 En progreso de lectura:
 
 1. *El cerebro de Broca* de Carl Sagan.
-2. *El lobo estepario* de Hermann Hesse.
 3. *Planilandia* de Edwin A. Abbott.
 4. *An Introduction to Genetic Algorithms* de Melanie Mitchell.
 
