@@ -1,0 +1,26 @@
+---
+layout: nil
+permalink: /feed/rss.xml
+---
+
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dev.monsterzen.com</title>
+    <link>http://dev.monsterzen.com/blog/</link>
+    <description>Posts from the blog of dev.monsterzen.com</description>
+    <language>es</language>
+    <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %Z" }}</pubDate>
+    <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %Z" }}</lastBuildDate>
+
+    {% for post in site.posts %}
+    <item>
+      <title>{{ post.title }}</title>
+      <link>{{ site.url }}{{ post.url }}</link>
+      <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %Z" }}</pubDate>
+      <author>josefranciscocalvo@gmail.com (José Francisco Calvo)</author>
+      <description>{{ post.content | xml_escape }}</description>
+    </item>
+    {% endfor %}
+  </channel> 
+</rss>
