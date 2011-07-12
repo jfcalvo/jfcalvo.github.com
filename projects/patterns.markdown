@@ -15,9 +15,11 @@ Python:
 
  * [Singleton][python_singleton]
  * [Observer][python_observer]
+ * [Prototype][python_prototype]
 
 You can visit the [github](http://github.com/jfcalvo/patterns) page of the project.
 
 [design_patterns]: http://en.wikipedia.org/wiki/Design_pattern_(computer_science)
 [python_singleton]: http://github.com/jfcalvo/patterns/blob/master/python/singleton.py
 [python_observer]: http://github.com/jfcalvo/patterns/blob/master/python/observer.py
+[python_prototype]: https://github.com/jfcalvo/patterns/blob/master/python/prototype.py
