@@ -18,11 +18,11 @@ Puesto que todavía no ha terminado el año la lista sigue en construcción:
 6. *¡Indignaos!* de Stéphane Hessel.
 7. *El hombre que confundió a su mujer con un sombrero* de Oliver Sacks.
 8. *El lobo estepario* de Hermann Hesse.
+9. *Planilandia* de Edwin A. Abbott.
 
 En progreso de lectura:
 
 1. *El cerebro de Broca* de Carl Sagan.
-3. *Planilandia* de Edwin A. Abbott.
 4. *An Introduction to Genetic Algorithms* de Melanie Mitchell.
 
 
