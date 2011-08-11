@@ -19,6 +19,7 @@ Puesto que todavía no ha terminado el año la lista sigue en construcción:
 7. *El hombre que confundió a su mujer con un sombrero* de Oliver Sacks.
 8. *El lobo estepario* de Hermann Hesse.
 9. *Planilandia* de Edwin A. Abbott.
+10. *Ubik* de Philip K. Dick.
 
 En progreso de lectura:
 
