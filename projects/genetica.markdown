@@ -11,7 +11,7 @@ summary: A library to create and use Genetics Algorithms with Ruby
 
 ## How to install
 
-The easiest way to install *Genetica* is to use the *gem* utility to install it as a ruby gem. At the moment *genetica* is at version **0.0.1.beta.1**, you can install it with the next command:
+The easiest way to install *Genetica* is to use the *gem* utility to install it as a ruby gem. At the moment *genetica* is at version **0.0.1.beta.2**, you can install it with the next command:
 
 {% highlight bash %}
 $ gem install genetica --pre
@@ -20,6 +20,8 @@ $ gem install genetica --pre
 ## Docs
 
 ## Examples
+
+[Evolving strings with Genetica.](/blog/2011/11/23/evolving-strings-with-genetica.html)
 
 ## Links
 
