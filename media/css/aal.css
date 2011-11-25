@@ -59,6 +59,8 @@ sup {font-size: .834em; line-height: 1em; vertical-align: super;}
 
 tt,code,kbd,samp,pre {font-size: 1em; font-family: "Courier New", Courier, monospace;}
 
+pre { overflow: auto; width: 640px;}
+
 /* Table styles */
 table {border-collapse: collapse; border-spacing: 0; margin: 0 0 1.5em;}
 caption {text-align: left;}
