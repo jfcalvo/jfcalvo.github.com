@@ -20,10 +20,4 @@ Puesto que todavía no ha terminado el año la lista sigue en construcción:
 8. *El lobo estepario* de Hermann Hesse.
 9. *Planilandia* de Edwin A. Abbott.
 10. *Ubik* de Philip K. Dick.
-
-En progreso de lectura:
-
-1. *El cerebro de Broca* de Carl Sagan.
-4. *An Introduction to Genetic Algorithms* de Melanie Mitchell.
-
-
+11. *Steve Jobs* de Walter Isaacson.
