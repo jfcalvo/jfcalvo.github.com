@@ -21,3 +21,4 @@ Puesto que todavía no ha terminado el año la lista sigue en construcción:
 9. *Planilandia* de Edwin A. Abbott.
 10. *Ubik* de Philip K. Dick.
 11. *Steve Jobs* de Walter Isaacson.
+12. *El gran Gatsby* de Francis Scott Fitzgerald.
