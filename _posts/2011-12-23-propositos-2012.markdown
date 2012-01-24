@@ -1,0 +1,68 @@
+---
+type: post
+layout: default
+language: spanish
+summary: Una lista de própositos como desarrollador para el nuevo año.
+title: Propósitos para 2012
+---
+
+2011 ha sido un año un tanto extraño, podría decir que he aprendido algunas cosas, en ciertos temas he profundizado y con otros ni siquiera he comenzado. Para este año 2012 que entra me gustaría escribir una lista de propósitos y objetivos para llevar a cabo, al final del año sería interesante ver cuales he cumplido y cuales no.
+
+## SOLID 
+Pensaba que conocía la programación orientada a objetos, incluso llegué a creer que mi código era bueno, en cuanto comencé a leer sobre [SOLID][wikipedia_solid] y aplicar un poco de TDD me di cuenta de que ninguna de las dos premisas anteriores eran ciertas. 
+Mi propósito para este año 2012 es conocer SOLID (sólo he rozado la superficie) y aplicarlo en el día a día. Terminar la lectura de *Clean Code* y profundizar con [este][article_ood] artículo.
+
+## TDD
+Me gustaría mucho aplicar TDD a todos los proyectos que comience en el futuro, pero no tengo el nivel suficiente. 
+Sería interesante practicar con algunas [katas][katas], leer [Diseño Ágil con TDD][book_tdd_agil] y [Growing Object-Oriented Software Guided by Tests][book_growing] así como comenzar un nuevo proyecto utilizando TDD.
+
+## Git
+No quiero utilizar Git como un mero sustituto de Subversion, me gustaría profundizar y conocer mejor como sacar todo el provecho posible a este sistema de control de versiones, conocer distintos workflows y como usarlos de manera ágil. Un buen libro que podría servir como guía es [Pro Git][book_progit], también hay artículos muy interesantes como [este][article_git_workflows].
+
+## Ruby
+Este año me ha servido para introducirme en este magnífico lenguaje, incluso he llegado a crear una pequeña [gema][genetica]. En este año que entra me gustaría profundizar más, conocer mejor sus interioridades y mejorar mi código. Quizás pueda ayudar practicar algo de metaprogramación o un escribir un [DSL][wikipedia_dsl], hay algunos artículos que tratan el tema, como [este][article_dsl_ruby_1] y [este][article_dsl_ruby_2]. 
+
+## Rails y Sinatra
+Después de años utilizando Django me he dado cuenta de que hay muchas cosas en este framework que no encajan bien, quizás demasiadas. Definitivamente he tomado la decisión de no volver a utilizarlo para futuros proyectos y adoptar otro framework. Hay muchos detalles de Rails que me llaman la atención aunque para muchos proyectos lo veo demasiado pesado y grande, por lo que la sencillez de [Sinatra][sinatra] también es algo que me atrae. Me gustaría crear algún proyecto utilizando alguno de estos dos frameworks.
+
+## noSQL
+El sector de las soluciones para el almacenamiento de datos ha cambiado drásticamente en los últimos años con nuevos paradigmas, que han roto el dominio que las bases de datos relacionales han tenido durante décadas, como soluciones únicas para el almacenamiento de datos. Ahora podemos elegir entre multitud de herramientas, en concreto me llaman la atención [MongoDB][mongodb], [Redis][redis], [Cassandra][cassandra], y [Kyoto Cabinet][kyoto_cabinet] (antiguo Tokyo Cabinet). Me gustaría aprender alguna de estas bases de datos y utilizarlas en algún nuevo proyecto.
+
+## Desarrollar un servicio Web RESTful
+Creo que el crecimiento de las APIs en Internet para este año 2012 va a ser sorprendente. Me gustaría desarrollar un servicio Web con una API útil y bien diseñada, que siga los principios de un diseño [REST pragmático][article_pragmatic_rest].
+
+## Publicar una aplicación en la App Store
+Llevo intentándolo un año entero y me gustaría terminar este año 2012 con una aplicación disponible en la App Store de Apple. Y si no es mucho pedir que además se venda bien.
+
+## Patrones de diseño
+Los patrones de diseño siempre han sido algo que me ha costado mucho aplicar, quizás porque no conozca bien cada uno de ellos o debido a mi propia torpeza. Me gustaría estudiarlos más detenidamente para ser más eficaz aplicándolos cuando detecte que es necesario. Quizás pueda ayudar un libro excelente y moderno sobre el tema, [Design Patterns In Ruby][book_patterns_ruby].
+
+## Lenguajes
+Muchos desarrolladores a los que aprecio me han incitado más de una vez a aprender Lisp, lo he intentado en alguna ocasión, pero siendo sincero me cuesta mucho trabajo. Un libro que me llamó mucho la atención por su formato es [Land of Lisp][book_land_of_lisp], quizás me pueda ayudar a cumplir este propósito.
+
+## Mejorar mi inglés
+No basta con leer libros escrito en inglés. Me gustaría mejorar mi gramática y ser capaz de mantener una conversación fluida, aunque creo que esto no será posible dentro de 2012.
+
+## Participar en alguna iniciativa social
+Siempre me ha motivado sobre manera los proyectos sociales o libres, este año he descubierto el proyecto ]Open Source Ecology][open_source_ecology], que tiene como objetivo el desarrollo de tecnología para la creación de una civilización sostenible con comodidades modernas, así como la publicación libre y gratuita de dicha tecnología. Me gustaría ayudar en esta iniciativa tan interesante, aportando mis conocimientos como desarrollador.
+
+[katas]: http://12meses12katas.com/
+[genetica]: https://rubygems.org/gems/genetica
+[sinatra]: http://www.sinatrarb.com/
+[open_source_ecology]: http://opensourceecology.org/
+[mongodb]: http://www.mongodb.org/
+[redis]: http://redis.io/
+[cassandra]: http://cassandra.apache.org/
+[kyoto_cabinet]: http://fallabs.com/kyotocabinet/
+[wikipedia_solid]: http://en.wikipedia.org/wiki/SOLID_(object-oriented_design)
+[wikipedia_dsl]: http://en.wikipedia.org/wiki/Domain-specific_language
+[article_ood]: http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod
+[article_dsl_ruby_1]: http://jroller.com/rolsen/entry/building_a_dsl_in_ruby
+[article_dsl_ruby_2]: http://jroller.com/rolsen/entry/building_a_dsl_in_ruby1 
+[article_git_workflows]: http://nvie.com/posts/a-successful-git-branching-model/
+[article_pragmatic_rest]: http://blog.apigee.com/detail/api_design_are_you_a_rest-afarian_or_a_rest_pragmatist/
+[book_tdd_agil]: http://www.dirigidoportests.com/el-libro
+[book_growing]: http://www.growing-object-oriented-software.com/
+[book_progit]: http://progit.org/book/
+[book_patterns_ruby]: http://designpatternsinruby.com/
+[book_land_of_lisp]: http://landoflisp.com/

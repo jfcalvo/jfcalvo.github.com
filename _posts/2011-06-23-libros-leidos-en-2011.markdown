@@ -2,13 +2,11 @@
 type: post
 layout: default
 language: spanish
-summary: Una lista con los libros leídos en el año 2011, todavía en progreso.
+summary: Una lista con los libros leídos en el año 2011.
 title: Libros leídos en 2011
 ---
 
-Simplemente me gustan las listas, y sobre todo si son listas relativas a libros. Los últimos años han sido auténticos *annus horribilis* respecto al número de libros leídos por mi parte, de modo que esta lista también prentede ser un incentivo personal para aumentar las horas de lectura. La culpa la tiene twitter.
-
-Puesto que todavía no ha terminado el año la lista sigue en construcción:
+Simplemente me gustan las listas, y sobre todo si son listas relativas a libros. Los últimos años han sido auténticos *annus horribilis* respecto al número de libros leídos por mi parte, de modo que esta lista también prentede ser un incentivo personal para aumentar las horas de lectura.
 
 1. *After Dark* de Haruki Murakami.
 2. *Solaris* de Stanislaw Lem.
