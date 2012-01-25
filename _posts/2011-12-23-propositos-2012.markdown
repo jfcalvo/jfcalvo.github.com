@@ -44,7 +44,7 @@ Muchos desarrolladores a los que aprecio me han incitado más de una vez a apren
 No basta con leer libros escrito en inglés. Me gustaría mejorar mi gramática y ser capaz de mantener una conversación fluida, aunque creo que esto no será posible dentro de 2012.
 
 ## Participar en alguna iniciativa social
-Siempre me ha motivado sobre manera los proyectos sociales o libres, este año he descubierto el proyecto ]Open Source Ecology][open_source_ecology], que tiene como objetivo el desarrollo de tecnología para la creación de una civilización sostenible con comodidades modernas, así como la publicación libre y gratuita de dicha tecnología. Me gustaría ayudar en esta iniciativa tan interesante, aportando mis conocimientos como desarrollador.
+Siempre me han motivado los proyectos sociales o de contenido libre, este año he descubierto el proyecto [Open Source Ecology][open_source_ecology], que tiene como objetivo el desarrollo de tecnologías libres y de bajo coste para el desarrollo de una civilización sostenible. Me gustaría sacar tiempo de algún lado y ayudar en esta iniciativa tan interesante, aportando mis conocimientos.
 
 [katas]: http://12meses12katas.com/
 [genetica]: https://rubygems.org/gems/genetica
