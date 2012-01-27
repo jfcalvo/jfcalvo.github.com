@@ -1,5 +1,19 @@
-body {background: #fdfdfd; color: #353535; font-family: 'OFL Sorts Mill Goudy TT', arial, serif; font-size: 20px; text-rendering: optimizeLegibility;}
-html>body {font-size: 20px; line-height: 150%; }
+html body {
+  font-size: 20px; 
+  line-height: 150%; 
+}
+
+body {
+  width: 640px;
+  margin: 0 auto;
+  margin-top: 0.5em;
+  margin-bottom: 0.6em;
+  color: #353535;
+  background-color: #FDFDFD;
+  font-size: 20px;
+  line-height: 150%;
+  font-family: 'Sorts Mill Goudy', serif;
+}
 
 body a { color: #3F92D2; text-decoration: none; }
 body a:hover { text-decoration: underline; }
@@ -9,19 +23,8 @@ body h2 { font-size: 30px; }
 
 code { font-size: 16px; }
 
-#wrap {
-  width: 640px; 
-  margin: 0 auto;
-  margin-top: 0.5em;
-  margin-bottom: 1.0em;
-}
-
-#header {
-  margin-bottom: 1.6em;
-}
-
-#logo {
-  font-family: 'Pacifico', serif;
+header h1 {
+  font-family: 'Pacifico', cursive;
   font-size: 44px;
   font-style: normal;
   font-weight: 400;
@@ -32,13 +35,40 @@ code { font-size: 16px; }
   word-spacing: 0em;
   line-height: 1.2;
   color: #3F92D2;
+  padding-left: 0.1em;
+  padding-bottom: 0.1em;
+  border-bottom: 0.08em solid #3F92D2;
+  margin-bottom: 0.05em;
 }
 
-#logo:hover { color: #0B61A4; }
+header h1 a:hover { 
+  color: #0B61A4; 
+  text-decoration: none;
+}
 
-#menu { margin-left: 0.4em; margin-top: 0.1em; }
-#menu a { font-size: 18px; }
-#menu .separator { margin-left: 0.2em; margin-right: 0.2em; }
+header nav ul li {
+  margin-top: 0.1em;
+  margin-left: 0.4em;
+  margin-right: -0.1em;
+  font-size: 18px;
+  list-style: none;
+  display: inline;
+}
+
+header nav ul li:after {
+  content: "-";
+  margin-left: 0.4em;
+  color: #3F92D2;
+}
+
+article footer { 
+  font-size: 14px; 
+  margin-top: 6.4em;
+  margin-bottom: 1.0em;
+  text-align: center; 
+  font-style: italic; 
+  color: #3F92D2;
+}
 
 #welcome_message { font-size: 30px; text-align: center; margin-top: 2.0em; }
 #welcome_message p { font-style: italic; }
@@ -61,8 +91,6 @@ code { font-size: 16px; }
 #post_footer { text-align: center; margin-top: 5.0em; margin-bottom: 1.8em; }
 
 .line { display: block; height: 3px; background-color: #3F92D2; }
-#footer { font-size: 14px; margin-top: 2.4em; text-align: center; font-style: italic; color: #3F92D2; }
-#footer a { color: black; }
 
 #post_list ol, #project_list ol { list-style-type: none; }
 #post_list li, #project_list li { margin-left: 0em; margin-bottom: 1.2em; }

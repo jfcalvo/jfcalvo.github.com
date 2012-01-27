@@ -1,96 +1,62 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html xml:lang="en-us" xmlns="http://www.w3.org/1999/xhtml">
-<head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">   
-    <meta http-equiv="Content-Style-Type" content="text/css">
-    <meta http-equiv="Content-Script-Type" content="text/javascript">
-        
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <meta charset='utf-8'>
     <title>dev.monsterzen.com - {{ page.title }}</title>
-
-    <!-- Favicon -->
-    {% comment %}
-    <link rel="icon" href="{{ site.url }}/images/icon_fav.ico" type="image/x-icon" />
-    {% endcomment %}
-
-    <!-- CSS -->
-    <link  href="http://fonts.googleapis.com/css?family=OFL+Sorts+Mill+Goudy+TT:regular,italic&v1" rel="stylesheet" type="text/css" >
-    <link href="http://fonts.googleapis.com/css?family=Pacifico:regular" rel="stylesheet" type="text/css">
-
-    <link href="{{ site.url }}/media/css/aal.css" media="screen" rel="stylesheet" type="text/css" />
-    <link href="{{ site.url }}/media/css/ui.css" media="screen" rel="stylesheet" type="text/css" />
-    <link href="{{ site.url }}/media/css/syntax.css" media="screen" rel="stylesheet" type="text/css" />
-    {% comment %}
-    <link href="{{ site.url }}/media/css/layout.css" media="screen" rel="stylesheet" type="text/css" />
-    {% endcomment %}
-
-    <!-- Javascript -->
-    {% comment %}
-    <script type="text/javascript" src="{{ site.url }}/media/js/jquery-1.4.2.js"></script>
-    {% endcomment %}
-
-    <!-- Javascript Document Ready -->
-    {% comment %}
-    <script type="text/javascript">
-        $(document).ready(function() {
-            console.log("hi");
-        });
-    </script>
-    {% endcomment %}
-
+    <!-- Fonts -->
+    <link href="http://fonts.googleapis.com/css?family=Pacifico:regular" rel="stylesheet" type="text/css">    
+    <link href="http://fonts.googleapis.com/css?family=Sorts+Mill+Goudy:400,400italic" rel="stylesheet" type="text/css">
+    <!-- Stylesheets -->
+    <link href="/media/css/aal.css" rel="stylesheet" type="text/css">
+    <link href="/media/css/ui.css" rel="stylesheet" type="text/css">
+    <link href="/media/css/syntax.css" rel="stylesheet" type="text/css">
     <!-- Javascript Google Analytics -->
     <script type="text/javascript">
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-24131383-1']);
-        _gaq.push(['_trackPageview']);
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-24131383-1']);
+      _gaq.push(['_trackPageview']);
 
-        (function() {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
+      (function() {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
     </script>
+  </head>
+
+  <body>
     
-</head>
+    <!-- Header and Navigation -->
+    <header>      
+      <h1><a href="{{ site.url }}/">dev.Monsterzen.com</a></h1>
+      <nav>
+        <ul>
+          <li><a href="/blog/">blog</a></li>
+          <li><a href="/projects/">projects</a></li>
+          <li><a href="/about/">about</a></li>
+          <li><a href="/feed/rss.xml">feed</a></li>
+        </ul>
+      </nav>
+    </header>
     
-<body>
+    <!-- Content -->    
+    {% case page.type %}
+    {% when "welcome" %}
+    <div id="welcome_message">{{ content }}</div>
+    {% when "post" %}
+    <article>
+      <div id="post_title"><h1><a href="{{ page.url }}">{{ page.title }}</a></h1></div>
+      <div id="post_info">{{ page.date | date_to_long_string }}</div>
+      <div id="post_content">{{ content }}</div>
+      <footer><img src="/media/images/footer.png" /></footer>
+    </article>
+    {% else %}
+    {{ content }}
+    {% endcase %}
 
-    <div id="wrap">
-        <!-- Header -->
-        <div id="header">
-            <a href="{{ site.url }}/" id="logo">dev.Monsterzen.com</a>
-            <div class="line"></div>
-            <div id="menu">
-                <a href="{{ site.url }}/blog/">blog</a>
-                <span class="separator">-</span>
-                <a href="{{ site.url }}/projects/">projects</a>
-                <span class="separator">-</span>
-                <a href="{{ site.url }}/about/">about</a>
-                <span class="separator">-</span>
-                <a href="{{ site.url }}/feed/rss.xml">feed</a>
-            </div>
-        </div>
+    <!-- Footer -->
+    <footer></footer>
 
-        <!-- Content -->
-        <div id="content">
-            {% case page.type %}
-            {% when "welcome" %}
-                <div id="welcome_message">{{ content }}</div>
-            {% when "post" %}
-                <div id="post_title"><h1><a href="{{ page.url }}">{{ page.title }}</a></h1></div>
-                <div id="post_info">{{ page.date | date_to_long_string }}</div>
-                <div id="post_content">{{ content }}</div>
-                <div id="post_footer"><img src="{{ site.url }}/media/images/footer.png" /></div>
-            {% else %}
-                {{ content }}
-            {% endcase %}
-        </div>
-  
-        <!-- Footer -->
-        <div id="footer">
-            {% comment %}<a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">Content Licensed over Creative Commons (by-nc-sa)</a>{% endcomment %}
-        </div>
-    </div>
-
-</body>
+  </body>
 
 </html>
