@@ -21,7 +21,15 @@ body h1, body h2, body h3, body h4, body h5, body h6 { font-weight: normal }
 body h1 { font-size: 40px; }
 body h2 { font-size: 30px; }
 
-code { font-size: 16px; }
+pre {
+  margin-left: 0.6em;
+}
+
+code {
+  font-size: 16px; 
+  font-family: 'Inconsolata', sans-serif;
+  line-height: 1.0em;
+}
 
 header h1 {
   font-family: 'Pacifico', cursive;
