@@ -11,6 +11,7 @@ Este año 2012 será el de la popularización de los lectores de libros electró
 Lo que aportará la digitalización de los libros todavía esta por ver, pero no dudo de que hará posible que muchas personas accedan a obras que en formato físico sería imposible. Yo por mi parte ya he conseguido algunos libros que estaban descatalogados en castellano, o que nunca se llegaron a editar. Comienzo este año con la lectura de una historia corta leída con mi iPhone, *No tengo boca y debo gritar* de Harlan Ellison, sin Internet me hubiese sido imposible leerla.
 
 1. *No tengo boca y debo gritar* de Harlan Ellison.
+2. *Diario de una invasión Zombie* de J.L. Bourne.
 
 ## Listas de años anteriores
 
