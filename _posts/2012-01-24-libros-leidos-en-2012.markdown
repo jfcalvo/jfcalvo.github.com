@@ -13,6 +13,7 @@ Lo que aportará la digitalización de los libros todavía esta por ver, pero no
 1. *No tengo boca y debo gritar* de Harlan Ellison.
 2. *Diario de una invasión Zombie* de J.L. Bourne.
 3. *Exilio: Diario de una invasión Zombie* de J.L. Bourne.
+4. *Crónica del pájaro que da cuerda al mundo* de Haruki Murakami.
 
 ## Listas de años anteriores
 
