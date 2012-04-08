@@ -63,9 +63,10 @@ header nav ul li {
   display: inline;
 }
 
-header nav ul li:after {
+header nav ul li:nth-child(n+2):before {
   content: "-";
-  margin-left: 0.4em;
+  margin-left: -0.2em;
+  margin-right: 0.4em;
   color: #3F92D2;
 }
 
