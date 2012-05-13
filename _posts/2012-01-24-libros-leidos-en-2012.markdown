@@ -15,6 +15,7 @@ Lo que aportará la digitalización de los libros todavía esta por ver, pero no
 3. *Exilio: Diario de una invasión Zombie* de J.L. Bourne.
 4. *Crónica del pájaro que da cuerda al mundo* de Haruki Murakami.
 5. *La doble hélice* de James D. Watson.
+6. *Memorias de la Tierra* de Miguel Brieva.
 
 ## Listas de años anteriores
 
