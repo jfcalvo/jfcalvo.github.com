@@ -16,7 +16,8 @@ Lo que aportará la digitalización de los libros todavía esta por ver, pero no
 4. *Crónica del pájaro que da cuerda al mundo* de Haruki Murakami.
 5. *La doble hélice* de James D. Watson.
 6. *Memorias de la Tierra* de Miguel Brieva.
-7. *Akira* (Vol. 1, 2) de Katsuhiro Otomo.
+7. *Akira* (Vol. 1, 2, 3) de Katsuhiro Otomo.
+8. *Cara a cara con la vida, la mente y el universo* de Eduardo Punset.
 
 ## Listas de años anteriores
 
