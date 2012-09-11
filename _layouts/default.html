@@ -52,7 +52,9 @@
       <footer><img src="/media/images/footer.png" /></footer>
     </article>
     {% else %}
-    {{ content }}
+    <div id="alt_content">
+      {{ content }}
+    </div>
     {% endcase %}
 
     <!-- Footer -->
