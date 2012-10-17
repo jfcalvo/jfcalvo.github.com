@@ -18,6 +18,7 @@ Lo que aportará la digitalización de los libros todavía esta por ver, pero no
 6. *Memorias de la Tierra* de Miguel Brieva.
 7. *Akira* (Vol. 1, 2, 3) de Katsuhiro Otomo.
 8. *Cara a cara con la vida, la mente y el universo* de Eduardo Punset.
+9. *2001: Una Odisea Espacial* de Arthur C. Clarke.
 
 ## Listas de años anteriores
 
