@@ -19,6 +19,8 @@ Lo que aportará la digitalización de los libros todavía esta por ver, pero no
 7. *Akira* (Vol. 1, 2, 3) de Katsuhiro Otomo.
 8. *Cara a cara con la vida, la mente y el universo* de Eduardo Punset.
 9. *2001: Una Odisea Espacial* de Arthur C. Clarke.
+10. *Mercaderes del espacio* de Frederik Pohl y Cyril M. Kornbluth.
+
 
 ## Listas de años anteriores
 
