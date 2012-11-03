@@ -20,6 +20,7 @@ Lo que aportará la digitalización de los libros todavía esta por ver, pero no
 8. *Cara a cara con la vida, la mente y el universo* de Eduardo Punset.
 9. *2001: Una Odisea Espacial* de Arthur C. Clarke.
 10. *Mercaderes del espacio* de Frederik Pohl y Cyril M. Kornbluth.
+11. *Brooklyn Follies* de Paul Auster.
 
 
 ## Listas de años anteriores
