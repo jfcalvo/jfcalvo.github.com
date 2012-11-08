@@ -21,6 +21,7 @@ Lo que aportará la digitalización de los libros todavía esta por ver, pero no
 9. *2001: Una Odisea Espacial* de Arthur C. Clarke.
 10. *Mercaderes del espacio* de Frederik Pohl y Cyril M. Kornbluth.
 11. *Brooklyn Follies* de Paul Auster.
+12. *Sputnik, mi amor* de Haruki Murakami.
 
 
 ## Listas de años anteriores
