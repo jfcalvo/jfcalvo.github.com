@@ -85,6 +85,7 @@ article footer {
 #post_title h1 {
   font-size: 40px; 
   margin-bottom: 0.1em;
+  line-height: 116%;
 }
 
 #post_title a { color: black; }
@@ -103,7 +104,7 @@ article footer {
 
 #post_list ol, #project_list ol { list-style-type: none; }
 #post_list li, #project_list li { margin-left: 0em; margin-bottom: 1.2em; }
-#post_list li a, #project_list li a { font-size: 28px; color: black; }
+#post_list li a, #project_list li a { font-size: 25px; color: black; }
 #post_list li a:hover, #project_list li a:hover { color: #3F92D2; text-decoration: none; }
 #post_list .post_date { color: #A8A8A8; margin-left: 0.6em; font-size: 15px; }
 #post_list .post_summary, #project_list .project_summary { display: block; font-size: 20px; font-style: italic; margin-top: 0.1em; }
