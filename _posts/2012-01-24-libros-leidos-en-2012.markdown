@@ -2,7 +2,7 @@
 type: post
 layout: default
 language: spanish
-summary: Una lista con los libros leídos en el año 2012, todavía en progreso.
+summary: Una lista con los libros leídos en el año 2012.
 title: Libros leídos en 2012
 ---
 
