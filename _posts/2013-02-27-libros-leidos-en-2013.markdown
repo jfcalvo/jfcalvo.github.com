@@ -11,6 +11,7 @@ Con un *Kindle* nuevo y muchas ganas de usarlo.
 1. *Cartero* de Charles Bukowski.
 2. *El encuentro* de Frederik Pohl.
 3. *El viejo y el mar* de Ernest Hemingway.
+4. *Sauce ciego, mujer dormida* de Haruki Murakami.
 
 
 ## Listas de años anteriores
