@@ -33,3 +33,13 @@ Verificar todos los archivos XML del directorio actual utilizando el XML Schema 
 {% highlight bash %}
 $ xmllint --noout --schema schema.xsd *.xml
 {% endhighlight %}
+
+## Evitar que tu Mac se suspenda
+
+Si necesitas dejar tu Mac realizando alguna tarea larga y no deseas que se suspenda mientras lo dejas desatendido existe el comando `pmset` que nos permite gestionar la configuración de la energía del equipo. Para evitar que el equipo se suspenda utiliza el siguiente comando:
+
+{% highlight bash %}
+$ pmset noidle
+{% endhighlight %}
+
+Pulsando `Ctrl-c` volverás al estado normal.
