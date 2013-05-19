@@ -12,6 +12,7 @@ Con un *Kindle* nuevo y muchas ganas de usarlo.
 2. *El encuentro* de Frederik Pohl.
 3. *El viejo y el mar* de Ernest Hemingway.
 4. *Sauce ciego, mujer dormida* de Haruki Murakami.
+5. *Cuentos de la taberna del ciervo blanco* de Arthur C. Clarke.
 
 
 ## Listas de años anteriores
