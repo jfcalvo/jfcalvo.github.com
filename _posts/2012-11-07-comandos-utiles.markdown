@@ -43,3 +43,13 @@ $ pmset noidle
 {% endhighlight %}
 
 Pulsando `Ctrl-c` volverás al estado normal.
+
+## Comprimir directorios en formato zip con encriptación
+
+Si deseamos comprimir directorios en formato zip con encriptación y excluyendo ciertos archivos podemos utilizar el siguiente comando:
+
+{% highlight bash %}
+$ zip -er output_filename directory_to_compress -x *.DS_Store*
+{% endhighlight %}
+
+La opción `e` añadirá encriptación al proceso de compresión y posteriormente pedirá un password. La opción `r` procede a añadir archivos de manera recursiva. La opción `-x` añade ficheros a excluir.
