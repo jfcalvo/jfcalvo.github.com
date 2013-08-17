@@ -15,6 +15,7 @@ Con un *Kindle* nuevo y muchas ganas de usarlo.
 5. *Cuentos de la taberna del ciervo blanco* de Arthur C. Clarke.
 6. *Chile, el golpe y los gringos* de Gabriel García Márquez.
 7. *París era una fiesta* de Ernest Hemingway.
+8. *Mundo anillo* de Larry Niven.
 
 ## Listas de años anteriores
 
