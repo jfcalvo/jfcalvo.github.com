@@ -53,3 +53,14 @@ $ zip -er output_filename directory_to_compress -x *.DS_Store*
 {% endhighlight %}
 
 La opción `e` añadirá encriptación al proceso de compresión y posteriormente pedirá un password. La opción `r` procede a añadir archivos de manera recursiva. La opción `-x` añade ficheros a excluir.
+
+## Tiempo que el sistema lleva ejecutándose
+
+Para conocer cuanto tiempo lleva el sistema funcionando desde que se inició podemos utilizar el comando `uptime`:
+
+{% highlight bash %}
+$ uptime
+21:22  up 14 mins, 2 users, load averages: 0,62 0,61 0,40
+{% endhighlight %}
+
+En mi caso 14 minutos.
