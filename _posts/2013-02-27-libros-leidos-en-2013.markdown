@@ -16,6 +16,7 @@ Con un *Kindle* nuevo y muchas ganas de usarlo.
 6. *Chile, el golpe y los gringos* de Gabriel García Márquez.
 7. *París era una fiesta* de Ernest Hemingway.
 8. *Mundo anillo* de Larry Niven.
+9. *El libro de los abrazos* de Eduardo Galeano.
 
 ## Listas de años anteriores
 
