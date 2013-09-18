@@ -17,6 +17,7 @@ Con un *Kindle* nuevo y muchas ganas de usarlo.
 7. *París era una fiesta* de Ernest Hemingway.
 8. *Mundo anillo* de Larry Niven.
 9. *El libro de los abrazos* de Eduardo Galeano.
+10. *Looking Forward* de Jacque Fresco y Kenneth Keyes.
 
 ## Listas de años anteriores
 
