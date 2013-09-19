@@ -18,6 +18,7 @@ Con un *Kindle* nuevo y muchas ganas de usarlo.
 8. *Mundo anillo* de Larry Niven.
 9. *El libro de los abrazos* de Eduardo Galeano.
 10. *Looking Forward* de Jacque Fresco y Kenneth Keyes.
+11. *Todos vosotros zombis* de Robert A. Heinlein.
 
 ## Listas de años anteriores
 
