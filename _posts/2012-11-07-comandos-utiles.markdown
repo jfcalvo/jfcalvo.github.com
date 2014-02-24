@@ -64,3 +64,11 @@ $ uptime
 {% endhighlight %}
 
 En mi caso 14 minutos.
+
+## Copiar directorios recursivamente sin incluir archivos ocultos
+
+Útil por ejemplo para copiar directorios entre repositorios Git que incluyen archivos `.git` ocultos:
+
+{% highlight bash %}
+$ rsync -av --exclude=".*" /source/ /destination
+{% endhighlight %}
