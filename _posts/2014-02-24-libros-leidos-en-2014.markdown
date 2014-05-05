@@ -7,6 +7,7 @@ title: Libros leídos en 2014
 ---
 
 1. *Kafka en la orilla* de Haruki Murakami.
+2. *Guía del autoestopista galáctico* de Douglas Adams.
 
 ## Listas de años anteriores
 
