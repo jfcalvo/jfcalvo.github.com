@@ -91,12 +91,7 @@ Add the following line to you `Gemfile`.
 gem 'dotenv-rails', :groups => [:development, :test]
 {% endhighlight %}
 
-### [rabl][rabl]
-
-ruby is a ruby template gem useful to generate JSON
-
 [lunchy]: https://github.com/mperham/lunchy
 [ruby-progressbar]: https://github.com/jfelchner/ruby-progressbar
 [sanitize]: https://github.com/rgrove/sanitize
 [dotenv-rails]: https://github.com/bkeepers/dotenv
-[rabl]: https://github.com/nesquena/rabl
