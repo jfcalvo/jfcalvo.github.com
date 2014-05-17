@@ -14,7 +14,7 @@ From time to time I find some really interesting Ruby/Rails Gems that make our d
 
 Control MacOS services using `launchctl` is a pain so `lunchy` offer us a really easy wrapper around `launchctl` command.
 
-To show all the available services in your system you can use the command `lunchy ls:
+To show all the available services in your system you can use the command `lunchy ls`:
 
 {% highlight bash %}
 $ lunchy ls
