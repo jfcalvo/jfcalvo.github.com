@@ -1,12 +1,12 @@
 ---
 type: post
 layout: default
-language: english
-summary: How to add default values to optional hash arguments with Ruby methods.
 title: Default values and hash arguments with Ruby
+summary: How to add default values to optional hash arguments with Ruby methods.
+language: english
 ---
 
-A common and idiomatic solution to the lack of keyword arguments in Ruby methods is the use of hashes. This pattern is used a lot inside Rails and other frameworks. 
+A common and idiomatic solution to the lack of keyword arguments in Ruby methods is the use of hashes. This pattern is used a lot inside Rails and other frameworks.
 
 {% highlight ruby %}
 def search(type, options = {})

@@ -1,9 +1,10 @@
 ---
 type: post
 layout: default
-language: english
-summary: A small example on how to use the Genetica Ruby gem.
 title: Evolving strings with Genetica
+summary: A small example on how to use the Genetica Ruby gem.
+language: english
+comments: true
 ---
 
 > *Warning:* this is an easy example on how to use *Genetica* (the Ruby gem) to create genetic algorithms; anyway you will need some basic knowledge about genetic algorithms to understand it. Maybe you should read [something][wikipedia_ga] about the subject before start to read this post.

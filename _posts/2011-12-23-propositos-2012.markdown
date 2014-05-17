@@ -1,26 +1,26 @@
 ---
 type: post
 layout: default
-language: spanish
-summary: Una lista de própositos como desarrollador para el nuevo año.
 title: Propósitos para 2012
+summary: Una lista de própositos como desarrollador para el nuevo año.
+language: spanish
 ---
 
 2011 ha sido un año un tanto extraño, podría decir que he aprendido algunas cosas, en ciertos temas he profundizado y con otros ni siquiera he comenzado. Para este año 2012 que entra me gustaría escribir una lista de propósitos y objetivos para llevar a cabo, al final del año sería interesante ver cuales he cumplido y cuales no.
 
-## SOLID 
-Pensaba que conocía la programación orientada a objetos, incluso llegué a creer que mi código era bueno, en cuanto comencé a leer sobre [SOLID][wikipedia_solid] y aplicar un poco de TDD me di cuenta de que ninguna de las dos premisas anteriores eran ciertas. 
+## SOLID
+Pensaba que conocía la programación orientada a objetos, incluso llegué a creer que mi código era bueno, en cuanto comencé a leer sobre [SOLID][wikipedia_solid] y aplicar un poco de TDD me di cuenta de que ninguna de las dos premisas anteriores eran ciertas.
 Mi propósito para este año 2012 es conocer SOLID (sólo he rozado la superficie) y aplicarlo en el día a día. Terminar la lectura de *Clean Code* y profundizar con [este][article_ood] artículo.
 
 ## TDD
-Me gustaría mucho aplicar TDD a todos los proyectos que comience en el futuro, pero no tengo el nivel suficiente. 
+Me gustaría mucho aplicar TDD a todos los proyectos que comience en el futuro, pero no tengo el nivel suficiente.
 Sería interesante practicar con algunas [katas][katas], leer [Diseño Ágil con TDD][book_tdd_agil] y [Growing Object-Oriented Software Guided by Tests][book_growing] así como comenzar un nuevo proyecto utilizando TDD.
 
 ## Git
 No quiero utilizar Git como un mero sustituto de Subversion, me gustaría profundizar y conocer mejor como sacar todo el provecho posible a este sistema de control de versiones, conocer distintos workflows y como usarlos de manera ágil. Un buen libro que podría servir como guía es [Pro Git][book_progit], también hay artículos muy interesantes como [este][article_git_workflows].
 
 ## Ruby
-Este año me ha servido para introducirme en este magnífico lenguaje, incluso he llegado a crear una pequeña [gema][genetica]. En este año que entra me gustaría profundizar más, conocer mejor sus interioridades y mejorar mi código. Quizás pueda ayudar practicar algo de metaprogramación o un escribir un [DSL][wikipedia_dsl], hay algunos artículos que tratan el tema, como [este][article_dsl_ruby_1] y [este][article_dsl_ruby_2]. 
+Este año me ha servido para introducirme en este magnífico lenguaje, incluso he llegado a crear una pequeña [gema][genetica]. En este año que entra me gustaría profundizar más, conocer mejor sus interioridades y mejorar mi código. Quizás pueda ayudar practicar algo de metaprogramación o un escribir un [DSL][wikipedia_dsl], hay algunos artículos que tratan el tema, como [este][article_dsl_ruby_1] y [este][article_dsl_ruby_2].
 
 ## Rails y Sinatra
 Después de años utilizando Django me he dado cuenta de que hay muchas cosas en este framework que no encajan bien, quizás demasiadas. Definitivamente he tomado la decisión de no volver a utilizarlo para futuros proyectos y adoptar otro framework. Hay muchos detalles de Rails que me llaman la atención aunque para muchos proyectos lo veo demasiado pesado y grande, por lo que la sencillez de [Sinatra][sinatra] también es algo que me atrae. Me gustaría crear algún proyecto utilizando alguno de estos dos frameworks.
@@ -58,7 +58,7 @@ Siempre me han motivado los proyectos sociales o de contenido libre, este año h
 [wikipedia_dsl]: http://en.wikipedia.org/wiki/Domain-specific_language
 [article_ood]: http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod
 [article_dsl_ruby_1]: http://jroller.com/rolsen/entry/building_a_dsl_in_ruby
-[article_dsl_ruby_2]: http://jroller.com/rolsen/entry/building_a_dsl_in_ruby1 
+[article_dsl_ruby_2]: http://jroller.com/rolsen/entry/building_a_dsl_in_ruby1
 [article_git_workflows]: http://nvie.com/posts/a-successful-git-branching-model/
 [article_pragmatic_rest]: http://blog.apigee.com/detail/api_design_are_you_a_rest-afarian_or_a_rest_pragmatist/
 [book_tdd_agil]: http://www.dirigidoportests.com/el-libro

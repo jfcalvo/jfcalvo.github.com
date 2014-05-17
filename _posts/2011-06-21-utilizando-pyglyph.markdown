@@ -1,12 +1,12 @@
 ---
 type: post
 layout: default
-language: spanish
-summary: Cómo utilizar Pyglyph de manera efectiva para crear texturas con fuentes.
 title: Utilizando Pyglyph
+summary: Cómo utilizar Pyglyph de manera efectiva para crear texturas con fuentes.
+language: spanish
 ---
 
-Pyglyph es un generador de texturas de fuentes desarrollado en Python. El objetivo que tenía en mente era facilitar el renderizado de fuentes en proyectos relacionados con aplicaciones y videojuegos utilizando [OpenGL ES](http://es.wikipedia.org/wiki/OpenGL_ES) bajo dispositivos iOS. 
+Pyglyph es un generador de texturas de fuentes desarrollado en Python. El objetivo que tenía en mente era facilitar el renderizado de fuentes en proyectos relacionados con aplicaciones y videojuegos utilizando [OpenGL ES](http://es.wikipedia.org/wiki/OpenGL_ES) bajo dispositivos iOS.
 
 Pyglyph es capaz de generar dos archivos, un primer archivo png con todos los caracteres requeridos con un tamaño y color dados, y un segundo archivo con metadatos sobre cada uno de los caracteres presentes en el archivo gráfico. El archivo de metadatos generado es un XML de tipo [plist](http://en.wikipedia.org/wiki/Plist), facilitando su uso en proyectos para dispositivos iOS, aunque utiliza un sistema de plantillas para poder configurar el formato de salida de los metadatos.
 
@@ -59,7 +59,7 @@ Con la instalación de Mako ya tenemos todo lo que necesitamos para poder genera
 
 A continuación vamos a definir una serie de ejemplos de uso de Pyglyph.
 
-Imaginemos que deseamos obtener una textura con los siguientes parámetros: 
+Imaginemos que deseamos obtener una textura con los siguientes parámetros:
 
 * Fuente Cooper Std con un tamaño de 40 puntos.
 * 512 píxeles de ancho y 256 píxeles de alto.
@@ -71,7 +71,7 @@ Ejecutaremos el siguiente comando:
 $ ./pyglyph.py --fontsize=40 --texturesize=512x256 --font="Cooper Std" --output=cooper
 {% endhighlight %}
 
-Destacar que el color de la fuente por defecto es el negro y que Pyglyph siempre renderiza la fuente sobre fondo transparente. 
+Destacar que el color de la fuente por defecto es el negro y que Pyglyph siempre renderiza la fuente sobre fondo transparente.
 
 Si todo ha funcionado correctamente deberías obtener dos archivos uno llamado cooper.png debería tener el aspecto del ejemplo presentado al principio de este post, el otro archivo de metadatos (cooper.plist) contendrá los metadatos sobre la posición de los caracteres dentro de la textura e información adicional que puede servir para poder renderizar de manera correcta texto en aplicaciones.
 

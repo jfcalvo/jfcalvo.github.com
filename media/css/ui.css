@@ -1,6 +1,6 @@
 html body {
-  font-size: 20px; 
-  line-height: 150%; 
+  font-size: 20px;
+  line-height: 150%;
 }
 
 body {
@@ -26,7 +26,7 @@ pre {
 }
 
 code {
-  font-size: 16px; 
+  font-size: 16px;
   font-family: 'Inconsolata', sans-serif;
   line-height: 1.0em;
 }
@@ -49,8 +49,8 @@ header h1 {
   margin-bottom: 0.05em;
 }
 
-header h1 a:hover { 
-  color: #0B61A4; 
+header h1 a:hover {
+  color: #0B61A4;
   text-decoration: none;
 }
 
@@ -70,12 +70,12 @@ header nav ul li:nth-child(n+2):before {
   color: #3F92D2;
 }
 
-article footer { 
-  font-size: 14px; 
-  margin-top: 6.4em;
-  margin-bottom: 1.0em;
-  text-align: center; 
-  font-style: italic; 
+article footer {
+  font-size: 14px;
+  margin-top: 4.0em;
+  margin-bottom: 4.0em;
+  text-align: center;
+  font-style: italic;
   color: #3F92D2;
 }
 
@@ -83,7 +83,7 @@ article footer {
 #welcome_message p { font-style: italic; }
 
 #post_title h1 {
-  font-size: 40px; 
+  font-size: 40px;
   margin-bottom: 0.1em;
   line-height: 116%;
 }

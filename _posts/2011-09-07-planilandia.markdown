@@ -1,9 +1,9 @@
 ---
 type: post
 layout: default
-language: spanish
-summary: Una pequeña crítica al libro de Edwin Abbott.
 title: Planilandia
+summary: Una pequeña crítica al libro de Edwin Abbott.
+language: spanish
 ---
 
 Publicada en 1884 por [*Edwin Abbott Abbott*](http://es.wikipedia.org/wiki/Edwin_Abbott_Abbott) (sí, sus padres eran primos) y clasificada en la actualidad en el género de la ciencia ficción, *Planilandia* cuenta la historia de los habitantes de un mundo bidimensional y de sus dificultades y experiencias vitales en un entorno de dos dimensiones.

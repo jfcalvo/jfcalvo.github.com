@@ -1,9 +1,9 @@
 ---
 type: post
 layout: default
-language: spanish
-summary: Anotaciones de algunos comandos UNIX útiles y olvidadizos.
 title: Algunos comandos UNIX útiles
+summary: Anotaciones de algunos comandos UNIX útiles y olvidadizos.
+language: spanish
 ---
 
 En este post añadiré progresivamente algunos comandos UNIX que he aprendido con el tiempo para tenerlos como referencia y no olvidarlos (algo que ocurre muy a menudo).

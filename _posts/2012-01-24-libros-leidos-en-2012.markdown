@@ -1,9 +1,9 @@
 ---
 type: post
 layout: default
-language: spanish
-summary: Una lista con los libros leídos en el año 2012.
 title: Libros leídos en 2012
+summary: Una lista con los libros leídos en el año 2012.
+language: spanish
 ---
 
 Este año 2012 será el de la popularización de los lectores de libros electrónicos. Estoy seguro que ocurrirá algo parecido con los libros a lo acontecido a principios del 2000 con el cine, en el que gracias a Internet conseguíamos acceder a películas que de otro modo hubiese sido imposible.

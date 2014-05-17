@@ -1,12 +1,12 @@
 ---
 type: post
 layout: default
-language: english
-summary: A list of interesting and useful Ruby and Rails Gems.
 title: Some useful Ruby/Rails Gems
+summary: A list of interesting and useful Ruby and Rails Gems.
+language: english
 ---
 
-From time to time I found some really interesting Ruby/Rails Gems that make our daily work as developers easier. In this article I will talk about some of those Gems.
+From time to time I find some really interesting Ruby/Rails Gems that make our daily work as developers easier. In this article I will talk about some of those Gems.
 
 ## Ruby Gems
 
@@ -14,7 +14,7 @@ From time to time I found some really interesting Ruby/Rails Gems that make our 
 
 Control MacOS services using `launchctl` is a pain so `lunchy` offer us a really easy wrapper around `launchctl` command.
 
-To show all the available services in your system you can use the command `lunchy ls`:
+To show all the available services in your system you can use the command `lunchy ls:
 
 {% highlight bash %}
 $ lunchy ls
@@ -91,7 +91,12 @@ Add the following line to you `Gemfile`.
 gem 'dotenv-rails', :groups => [:development, :test]
 {% endhighlight %}
 
+### [rabl][rabl]
+
+ruby is a ruby template gem useful to generate JSON
+
 [lunchy]: https://github.com/mperham/lunchy
 [ruby-progressbar]: https://github.com/jfelchner/ruby-progressbar
 [sanitize]: https://github.com/rgrove/sanitize
 [dotenv-rails]: https://github.com/bkeepers/dotenv
+[rabl]: https://github.com/nesquena/rabl

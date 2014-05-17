@@ -1,9 +1,9 @@
 ---
 type: post
 layout: default
-language: spanish
-summary: Una lista con los libros leídos en el año 2011.
 title: Libros leídos en 2011
+summary: Una lista con los libros leídos en el año 2011.
+language: spanish
 ---
 
 Simplemente me gustan las listas, y sobre todo si son listas relativas a libros. Los últimos años han sido auténticos *annus horribilis* respecto al número de libros leídos por mi parte, de modo que esta lista también prentede ser un incentivo personal para aumentar las horas de lectura.
