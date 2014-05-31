@@ -8,6 +8,7 @@ language: spanish
 
 1. *Kafka en la orilla* de Haruki Murakami.
 2. *Guía del autoestopista galáctico* de Douglas Adams.
+3. *La última lección* de Randy Pausch.
 
 ## Listas de años anteriores
 
