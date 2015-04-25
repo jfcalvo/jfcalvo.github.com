@@ -2,7 +2,7 @@
 type: post
 layout: default
 title: Libros leídos en 2014
-summary: Una lista con los libros leídos en el año 2014, todavía en progreso.
+summary: Una lista con los libros leídos en el año 2014.
 language: spanish
 ---
 
