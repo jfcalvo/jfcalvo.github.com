@@ -8,6 +8,10 @@ permalink: /books/
 
 I will add here the readings I've been doing ordered by year.
 
+## 2016
+
+1. *Lo que me está pasando, diarios de un joven emperdedor* de Miguel Brieva.
+
 ## 2015
 
 1. *Los años de peregrinación del chico sin color* de Haruki Murakami.
