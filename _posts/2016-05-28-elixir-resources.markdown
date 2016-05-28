@@ -33,7 +33,7 @@ As some of you know I'm spending most of my time learning and having fun with El
 - [*ElixirConf.eu*](http://www.elixirconf.eu), the european conference of Elixir makers since 2015.
  - [ElixirConf.eu 2016 Youtube playlist.](https://www.youtube.com/playlist?list=PLWbHc_FXPo2gB7HUE-2H61HAEyszAph3H)
  - [ElixirConf.eu 2015 Youtube playlist.](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jBXpr1IjyUgJ7hNS1eTf7H)
-- [Madrid |> Elixir](http://www.meetup.com/es-ES/Madrid-Elixir/), the Madrid meetup for alchemists, they have a [youtube channel](https://www.youtube.com/channel/UC9yYRwabRGjwb7Z5LCwRzfw) too.
+- [Madrid Elixir](http://www.meetup.com/es-ES/Madrid-Elixir/), the Madrid meetup for alchemists, they have a [youtube channel](https://www.youtube.com/channel/UC9yYRwabRGjwb7Z5LCwRzfw) too.
 
 ## Blogs
 
