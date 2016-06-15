@@ -11,6 +11,7 @@ I will add here the readings I've been doing ordered by year.
 ## 2016
 
 1. *Lo que me está pasando, diarios de un joven emperdedor* de Miguel Brieva.
+2. *Aniquilación* de Jeff VanderMeer.
 
 ## 2015
 
