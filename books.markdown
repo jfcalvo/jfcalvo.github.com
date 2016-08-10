@@ -12,6 +12,7 @@ I will add here the readings I've been doing ordered by year.
 
 1. *Lo que me está pasando, diarios de un joven emperdedor* de Miguel Brieva.
 2. *Aniquilación* de Jeff VanderMeer.
+3. *Alta fidelidad* de Nick Hornby.
 
 ## 2015
 
