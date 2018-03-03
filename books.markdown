@@ -8,6 +8,10 @@ permalink: /books/
 
 I will add here the readings I've been doing ordered by year.
 
+## 2018
+
+1. *¿Está usted de broma, Sr. Feynman?* de Richard P. Feynman.
+
 ## 2016
 
 1. *Lo que me está pasando, diarios de un joven emperdedor* de Miguel Brieva.
