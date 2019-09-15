@@ -8,6 +8,11 @@ permalink: /books/
 
 I will add here the readings I've been doing ordered by year.
 
+## 2019
+
+1. *El último deseo* de Andrzej Sapkowski.
+2. *Cita con Rama* de Arthur C. Clarke.
+
 ## 2018
 
 1. *¿Está usted de broma, Sr. Feynman?* de Richard P. Feynman.
