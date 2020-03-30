@@ -8,11 +8,15 @@ permalink: /books/
 
 I will add here the readings I've been doing ordered by year.
 
+## 2020
+
+1. *Escucha la canción del viento y Pinball 1973* de Haruki Murakami.
+
 ## 2019
 
 1. *El último deseo* de Andrzej Sapkowski.
 2. *Cita con Rama* de Arthur C. Clarke.
-3. *Réquiem por un vaquero espacial: El universo de Cowboy Bebop* de Francesc Miró. 
+3. *Réquiem por un vaquero espacial: El universo de Cowboy Bebop* de Francesc Miró.
 
 ## 2018
 
