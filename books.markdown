@@ -12,6 +12,7 @@ I will add here the readings I've been doing ordered by year.
 
 1. *Escucha la canción del viento y Pinball 1973* de Haruki Murakami.
 2. *Sapiens. De animales a dioses* de Yuval Noah Harari.
+3. *¿Qué te importa lo que piensen los demás?* de Richard P. Feynman.
 
 ## 2019
 
