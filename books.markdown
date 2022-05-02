@@ -8,6 +8,10 @@ permalink: /books/
 
 I will add here the readings I've been doing ordered by year.
 
+## 2022
+
+1. *La Invasión de Ucrania* de Rafael Poch-de-Feliu.
+
 ## 2021
 
 1. *El problema de los tres cuerpos* de Cixin Liu.
