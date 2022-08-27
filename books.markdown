@@ -11,6 +11,7 @@ I will add here the readings I've been doing ordered by year.
 ## 2022
 
 1. *La Invasión de Ucrania* de Rafael Poch-de-Feliu.
+2. *El bar de las grandes esperanzas* de J.R. Moehringer.
 
 ## 2021
 
