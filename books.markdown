@@ -8,6 +8,10 @@ permalink: /books/
 
 I will add here the readings I've been doing ordered by year.
 
+## 2024
+
+1. *Artificial Intelligence: A Guide for Thinking Humans* de Melanie Mitchell.
+
 ## 2022
 
 1. *La Invasión de Ucrania* de Rafael Poch-de-Feliu.
