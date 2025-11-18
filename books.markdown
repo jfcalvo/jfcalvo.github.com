@@ -8,6 +8,10 @@ permalink: /books/
 
 I will add here the readings I've been doing ordered by year.
 
+## 2026
+
+1. *Ambición moral* de Rutger Bregman.
+
 ## 2024
 
 1. *Artificial Intelligence: A Guide for Thinking Humans* de Melanie Mitchell.
